@@ -7,3 +7,5 @@
 
 ## Imagens:
 ![Screenshot_1](/imgs/Screenshot_1.jpg "Screenshot_1")![Screenshot_2](/imgs/Screenshot_2.jpg "Screenshot_2")![Screenshot_3](/imgs/Screenshot_1.jpg "Screenshot_3")
+
+## Todos direitos reservado a Netflix, clone utilizado para fins didaticos.
